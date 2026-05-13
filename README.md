@@ -7,6 +7,7 @@ An Educational Game developed by 3 Student Game Developers at Temasek Polytechni
 ## Game Developers
 
 - [@justinseehc](https://github.com/justinseehc)
+- [@WeiEnZero](https://github.com/WeiEnZero)
 
 
 ## Badges
