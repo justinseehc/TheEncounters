@@ -8,7 +8,8 @@ An Educational Game developed by 3 Student Game Developers at Temasek Polytechni
 
 - [@justinseehc](https://github.com/justinseehc)
 - [@WeiEnZero](https://github.com/WeiEnZero)
-
+- [@OliverLim]
+(https://github.com/spaget-spaget)
 
 ## Badges
 
