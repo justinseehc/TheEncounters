@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+guid: 400f585e1b7c64044a5a10f36aaebba8
+=======
+<<<<<<< HEAD:Assets/UI/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+guid: 0c2c83aee856b8740a7f88e7fbf9b523
+=======
+guid: 400f585e1b7c64044a5a10f36aaebba8
+>>>>>>> efdd1e2bc250e77e7efb23b7bf43651368373ca0:Assets/Characters/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+>>>>>>> Stashed changes
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+<<<<<<< Updated upstream
+  spriteMode: 2
+=======
+<<<<<<< HEAD:Assets/UI/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+  spriteMode: 1
+=======
+  spriteMode: 2
+>>>>>>> efdd1e2bc250e77e7efb23b7bf43651368373ca0:Assets/Characters/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+>>>>>>> Stashed changes
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD:Assets/UI/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+    sprites: []
+=======
+>>>>>>> Stashed changes
+    sprites:
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41beddd1bd4a9e4fb682ce91600f626
+      internalID: 403865956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 30
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9212573be45f4ca17aa84fdd0c272
+      internalID: 255648390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 30
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde7eedeb156694987ffd6ae3e299cf
+      internalID: -211448187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 30
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f42dd3f18dd1469778c0a302efe15
+      internalID: 2130428999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 30
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8c5cfd6394a25499f84f12acd126f7
+      internalID: 747094082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 30
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e644cdb07add4387437aadea2c0e8
+      internalID: 1284587162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5e2660a356554890ce770986245da
+      internalID: -1299160090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20066171d8cd1a9438562e83c8335f16
+      internalID: -738873596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57770ba4ea27d6340a0aac2408acc991
+      internalID: -1261677609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8767c30b3b85545860a1b28d5777df
+      internalID: 1682842756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b53a4320cdd17b41af94c65d8bfafc6
+      internalID: 2134312008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueStudent3Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 30
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287e5b3558225046a434483a9a5e3d3
+      internalID: -1889528762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+<<<<<<< Updated upstream
+=======
+>>>>>>> efdd1e2bc250e77e7efb23b7bf43651368373ca0:Assets/Characters/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+>>>>>>> Stashed changes
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD:Assets/UI/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+    nameFileIdTable: {}
+=======
+>>>>>>> Stashed changes
+    nameFileIdTable:
+      BlueStudent3Spritesheet_0: 403865956
+      BlueStudent3Spritesheet_1: 255648390
+      BlueStudent3Spritesheet_10: 2134312008
+      BlueStudent3Spritesheet_11: -1889528762
+      BlueStudent3Spritesheet_2: -211448187
+      BlueStudent3Spritesheet_3: 2130428999
+      BlueStudent3Spritesheet_4: 747094082
+      BlueStudent3Spritesheet_5: 1284587162
+      BlueStudent3Spritesheet_6: -1299160090
+      BlueStudent3Spritesheet_7: -738873596
+      BlueStudent3Spritesheet_8: -1261677609
+      BlueStudent3Spritesheet_9: 1682842756
+<<<<<<< Updated upstream
+=======
+>>>>>>> efdd1e2bc250e77e7efb23b7bf43651368373ca0:Assets/Characters/BlueStudentSprites/BlueStudent3Spritesheet.png.meta
+>>>>>>> Stashed changes
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
